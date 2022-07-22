@@ -58,10 +58,10 @@ with st.container():
         st.write("##")
         st.write(
             """
-            - I'm currently pursuing my post graduation in data science and machine learning from Manipal Academy Of Higher Education 
-              and have a keen interest in EDA,Data Vizualisation,Statistical analysis and Machine learning algorithms, 
-              topics on which I'm currently working on to bring professional competency. 
-            
+            - Business Analyst-Data Architect at Genpact
+
+            - I have a keen interest in business analysis, statistical analysis and machine learning algorithms. 
+
             - I also have knowledge on Natural Language Processing, Deep Learning Algorithms and Image Classification using CNN 
               architecture and Image augmentation techniques.
             
