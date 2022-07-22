@@ -5,7 +5,7 @@ from PIL import Image
 
 
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
-st.set_page_config(page_title="My Webpage", page_icon=":smile:", layout="wide")
+st.set_page_config(page_title="Subradip Poddar", page_icon=":smile:", layout="wide")
 
 
 def load_lottieurl(url):
@@ -39,7 +39,7 @@ img_mech = Image.open('Images/mech.jpg')
 # ---- HEADER SECTION ----
 with st.container():
     st.subheader("Hi, I am Subradip Poddar :smile:")
-    st.title("An aspiring Data Science Professional From India")
+    st.title("Business Analyst-Data Architect at Genpact")
     st.write(
         "I am passionate about finding ways to use data to be more efficient and effective in business settings."
     )
@@ -58,8 +58,6 @@ with st.container():
         st.write("##")
         st.write(
             """
-            - Business Analyst-Data Architect at Genpact
-
             - I have a keen interest in business analysis, statistical analysis and machine learning algorithms. 
 
             - I also have knowledge on Natural Language Processing, Deep Learning Algorithms and Image Classification using CNN 
